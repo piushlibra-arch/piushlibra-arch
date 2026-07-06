@@ -1,4 +1,9 @@
-# 👋 Hello, I'm Piyush Kumar!
+Hi 👋, I'm Piyush Kumar
+Python Developer
+SQL | Data Analytics
+Backend Development | Automation
+Learning Data Engineering
+Always Building Something New 🚀
 
 <!--
 **piushlibra-arch/piushlibra-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
