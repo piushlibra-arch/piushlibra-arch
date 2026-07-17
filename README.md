@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/🌍%20Live%20Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 </div>
----
 
 # 👨‍💻 About Me
 
@@ -136,26 +135,6 @@ https://piushlibra-arch.github.io/portfolio/
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=piushlibra-arch&theme=tokyo-night"/>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=piushlibra-arch&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Apache Airflow
-- FastAPI
-- Advanced Machine Learning
-- Data Engineering
-- Large Language Model Applications
 
 ---
 
