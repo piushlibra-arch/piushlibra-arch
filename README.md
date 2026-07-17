@@ -4,30 +4,46 @@
 
 ### AI Automation Engineer | Python Developer | Data Analytics Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Automation+Engineer;Python+Developer;Computer+Vision;Machine+Learning;Data+Analytics;Always+Learning+New+Things" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=piushlibra-arch&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=AI+Automation+Engineer;Python+Developer;Computer+Vision;Machine+Learning;Data+Analytics;Building+Intelligent+Automation" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🌐 Portfolio
 
-🚀 AI Automation Engineer passionate about building intelligent automation systems and scalable Python applications.
+<div align="center">
 
-- 🤖 Building AI Automation & Computer Vision Systems
-- 🐍 Strong in Python, SQL, Pandas & NumPy
-- 📊 Interested in Data Analytics & Machine Learning
-- ☁️ Experience with AWS S3, Docker & Git
-- 💡 Exploring LLM Applications & AI Workflows
-- 🌱 Currently learning Apache Airflow & Advanced Machine Learning
+### 🚀 Explore My Portfolio
+
+<a href="https://piushlibra-arch.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌍%20Live%20Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/piushlibra-arch/portfolio">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+> **Portfolio:** https://piushlibra-arch.github.io/portfolio/
 
 ---
 
-# 🛠️ Tech Stack
+# 👨‍💻 About Me
+
+I'm passionate about building intelligent automation systems using Python, AI, and Machine Learning.
+
+- 🤖 AI Automation & Computer Vision
+- 🐍 Python Developer
+- 📊 Data Analytics & Machine Learning
+- ☁️ AWS S3, Docker & Git
+- 🧠 Prompt Engineering & LLM Workflows
+- 🚀 Building production-ready automation solutions
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -41,8 +57,15 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux" />
+</p>
+
 ### AI & Data
 
+- Python
 - Pandas
 - NumPy
 - OpenAI API
@@ -52,62 +75,51 @@
 - Machine Learning
 - Computer Vision
 
-### Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux" />
-</p>
-
 ---
 
 # 🚀 Featured Projects
 
-## 📈 Customer Churn Prediction
+## 📊 Customer Churn Prediction
 
-Machine Learning project for predicting customer churn using data preprocessing, feature engineering, EDA, and classification models.
+End-to-end machine learning pipeline including EDA, preprocessing, feature engineering and customer churn prediction.
 
-**Tech Used**
+**Tech**
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
+`Python` `Pandas` `NumPy` `Scikit-Learn`
 
 ---
 
 ## 📧 Spam Email Detection
 
-Built a spam classifier using NLP techniques and Machine Learning.
+Spam classification system using NLP and Machine Learning.
 
-**Tech Used**
+**Tech**
 
-- Python
-- NLP
-- TF-IDF
-- Scikit-Learn
+`Python` `TF-IDF` `NLP` `Scikit-Learn`
 
 ---
 
 ## 🎬 Movie Recommendation System
 
-Recommendation engine using collaborative filtering techniques.
+Recommendation engine using collaborative filtering and similarity algorithms.
 
-**Tech Used**
+**Tech**
 
-- Python
-- Pandas
-- Cosine Similarity
+`Python` `Pandas`
 
 ---
 
-## 🌐 Portfolio Website
+## 🌐 Personal Portfolio
 
-Responsive portfolio website built using HTML, CSS & JavaScript.
+Responsive portfolio showcasing projects, experience and skills.
+
+🔗 Live Website
+
+https://piushlibra-arch.github.io/portfolio/
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -125,7 +137,7 @@ Responsive portfolio website built using HTML, CSS & JavaScript.
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 GitHub Activity
 
 <p align="center">
 
@@ -148,34 +160,19 @@ Responsive portfolio website built using HTML, CSS & JavaScript.
 # 🌱 Currently Learning
 
 - Apache Airflow
-- AWS Cloud
 - FastAPI
 - Advanced Machine Learning
-- LLM Applications
 - Data Engineering
-
----
-
-# 🎯 2026 Goals
-
-✅ Build Production AI Projects
-
-✅ Master Machine Learning
-
-✅ Learn Data Engineering
-
-✅ Contribute to Open Source
-
-✅ Become an AI Automation Engineer
+- Large Language Model Applications
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="mailto:piushlibra@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/piushlibra">
@@ -186,12 +183,18 @@ Responsive portfolio website built using HTML, CSS & JavaScript.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://piushlibra-arch.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent solutions through AI, automation, and data."*
 
 </div>
