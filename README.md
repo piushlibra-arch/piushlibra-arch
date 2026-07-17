@@ -75,7 +75,7 @@ I'm passionate about building intelligent automation systems using Python, AI, a
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/piushlibra">
+<a href="https://www.linkedin.com/in/piyush-kumar-80a303363/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
